@@ -1,5 +1,9 @@
 body {
     background-color: hsl(212, 45%, 89%);
+     min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .box{
     width: 320px;
